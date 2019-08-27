@@ -9,7 +9,7 @@ while x > 8:
         print("The number is", x)
         x -= 1
 
-print("Hello, my name is Jarred.")
+print("Hello, my name is Jarred and I have updated the code.")
 
 
 
